@@ -1,0 +1,5 @@
+1, collin@mail.com,collin,123456
+2, sam@mail.com,samuel,123456
+3, jane@mail.com,jane,123456
+4, winnie@mail.com,winnie,123456
+5, sam@mail.com,sam,1234567

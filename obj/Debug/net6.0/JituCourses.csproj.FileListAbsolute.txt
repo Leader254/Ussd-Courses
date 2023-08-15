@@ -1,0 +1,15 @@
+D:\Training\C# .NET Training\Week2\JituCourses\obj\Debug\net6.0\JituCourses.csproj.AssemblyReference.cache
+D:\Training\C# .NET Training\Week2\JituCourses\obj\Debug\net6.0\JituCourses.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\C# .NET Training\Week2\JituCourses\obj\Debug\net6.0\JituCourses.AssemblyInfoInputs.cache
+D:\Training\C# .NET Training\Week2\JituCourses\obj\Debug\net6.0\JituCourses.AssemblyInfo.cs
+D:\Training\C# .NET Training\Week2\JituCourses\obj\Debug\net6.0\JituCourses.csproj.CoreCompileInputs.cache
+D:\Training\C# .NET Training\Week2\JituCourses\bin\Debug\net6.0\JituCourses.exe
+D:\Training\C# .NET Training\Week2\JituCourses\bin\Debug\net6.0\JituCourses.deps.json
+D:\Training\C# .NET Training\Week2\JituCourses\bin\Debug\net6.0\JituCourses.runtimeconfig.json
+D:\Training\C# .NET Training\Week2\JituCourses\bin\Debug\net6.0\JituCourses.dll
+D:\Training\C# .NET Training\Week2\JituCourses\bin\Debug\net6.0\JituCourses.pdb
+D:\Training\C# .NET Training\Week2\JituCourses\obj\Debug\net6.0\JituCourses.dll
+D:\Training\C# .NET Training\Week2\JituCourses\obj\Debug\net6.0\refint\JituCourses.dll
+D:\Training\C# .NET Training\Week2\JituCourses\obj\Debug\net6.0\JituCourses.pdb
+D:\Training\C# .NET Training\Week2\JituCourses\obj\Debug\net6.0\JituCourses.genruntimeconfig.cache
+D:\Training\C# .NET Training\Week2\JituCourses\obj\Debug\net6.0\ref\JituCourses.dll

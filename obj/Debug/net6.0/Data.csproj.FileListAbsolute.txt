@@ -1,0 +1,45 @@
+C:\Users\Samuel\source\repos\Data\Data\obj\Debug\net6.0\Data.csproj.AssemblyReference.cache
+C:\Users\Samuel\source\repos\Data\Data\obj\Debug\net6.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel\source\repos\Data\Data\obj\Debug\net6.0\Data.AssemblyInfoInputs.cache
+C:\Users\Samuel\source\repos\Data\Data\obj\Debug\net6.0\Data.AssemblyInfo.cs
+C:\Users\Samuel\source\repos\Data\Data\obj\Debug\net6.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\Samuel\source\repos\Data\Data\bin\Debug\net6.0\Data.exe
+C:\Users\Samuel\source\repos\Data\Data\bin\Debug\net6.0\Data.deps.json
+C:\Users\Samuel\source\repos\Data\Data\bin\Debug\net6.0\Data.runtimeconfig.json
+C:\Users\Samuel\source\repos\Data\Data\bin\Debug\net6.0\Data.dll
+C:\Users\Samuel\source\repos\Data\Data\bin\Debug\net6.0\Data.pdb
+C:\Users\Samuel\source\repos\Data\Data\obj\Debug\net6.0\Data.dll
+C:\Users\Samuel\source\repos\Data\Data\obj\Debug\net6.0\refint\Data.dll
+C:\Users\Samuel\source\repos\Data\Data\obj\Debug\net6.0\Data.pdb
+C:\Users\Samuel\source\repos\Data\Data\obj\Debug\net6.0\Data.genruntimeconfig.cache
+C:\Users\Samuel\source\repos\Data\Data\obj\Debug\net6.0\ref\Data.dll
+D:\Training\C# .NET Training\Week2\Data\bin\Debug\net6.0\Data.exe
+D:\Training\C# .NET Training\Week2\Data\bin\Debug\net6.0\Data.deps.json
+D:\Training\C# .NET Training\Week2\Data\bin\Debug\net6.0\Data.runtimeconfig.json
+D:\Training\C# .NET Training\Week2\Data\bin\Debug\net6.0\Data.dll
+D:\Training\C# .NET Training\Week2\Data\bin\Debug\net6.0\Data.pdb
+D:\Training\C# .NET Training\Week2\Data\obj\Debug\net6.0\Data.csproj.AssemblyReference.cache
+D:\Training\C# .NET Training\Week2\Data\obj\Debug\net6.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\C# .NET Training\Week2\Data\obj\Debug\net6.0\Data.AssemblyInfoInputs.cache
+D:\Training\C# .NET Training\Week2\Data\obj\Debug\net6.0\Data.AssemblyInfo.cs
+D:\Training\C# .NET Training\Week2\Data\obj\Debug\net6.0\Data.csproj.CoreCompileInputs.cache
+D:\Training\C# .NET Training\Week2\Data\obj\Debug\net6.0\Data.dll
+D:\Training\C# .NET Training\Week2\Data\obj\Debug\net6.0\refint\Data.dll
+D:\Training\C# .NET Training\Week2\Data\obj\Debug\net6.0\Data.pdb
+D:\Training\C# .NET Training\Week2\Data\obj\Debug\net6.0\Data.genruntimeconfig.cache
+D:\Training\C# .NET Training\Week2\Data\obj\Debug\net6.0\ref\Data.dll
+D:\Training\C# .NET Training\Week2\JituCourses\bin\Debug\net6.0\Data.exe
+D:\Training\C# .NET Training\Week2\JituCourses\bin\Debug\net6.0\Data.deps.json
+D:\Training\C# .NET Training\Week2\JituCourses\bin\Debug\net6.0\Data.runtimeconfig.json
+D:\Training\C# .NET Training\Week2\JituCourses\bin\Debug\net6.0\Data.dll
+D:\Training\C# .NET Training\Week2\JituCourses\bin\Debug\net6.0\Data.pdb
+D:\Training\C# .NET Training\Week2\JituCourses\obj\Debug\net6.0\Data.csproj.AssemblyReference.cache
+D:\Training\C# .NET Training\Week2\JituCourses\obj\Debug\net6.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\C# .NET Training\Week2\JituCourses\obj\Debug\net6.0\Data.AssemblyInfoInputs.cache
+D:\Training\C# .NET Training\Week2\JituCourses\obj\Debug\net6.0\Data.AssemblyInfo.cs
+D:\Training\C# .NET Training\Week2\JituCourses\obj\Debug\net6.0\Data.csproj.CoreCompileInputs.cache
+D:\Training\C# .NET Training\Week2\JituCourses\obj\Debug\net6.0\Data.dll
+D:\Training\C# .NET Training\Week2\JituCourses\obj\Debug\net6.0\refint\Data.dll
+D:\Training\C# .NET Training\Week2\JituCourses\obj\Debug\net6.0\Data.pdb
+D:\Training\C# .NET Training\Week2\JituCourses\obj\Debug\net6.0\Data.genruntimeconfig.cache
+D:\Training\C# .NET Training\Week2\JituCourses\obj\Debug\net6.0\ref\Data.dll
